@@ -1,0 +1,466 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Understanding Semantic HTML",
+      "author": "Chris Evans",
+      "category": "HTML",
+      "date": "2025-05-30",
+      "image": "https://source.unsplash.com/featured/?html,code",
+      "content": "This is a detailed article about Understanding Semantic HTML. Learn how to master html in modern front-end development."
+    },
+    {
+      "id": 2,
+      "title": "10 HTML Tags You Didn't Know",
+      "author": "Alex Morgan",
+      "category": "HTML",
+      "date": "2025-02-03",
+      "image": "https://source.unsplash.com/featured/?html,code",
+      "content": "This is a detailed article about 10 HTML Tags You Didn't Know. Learn how to master html in modern front-end development."
+    },
+    {
+      "id": 3,
+      "title": "Best Practices for HTML5",
+      "author": "Samantha Jay",
+      "category": "HTML",
+      "date": "2025-01-26",
+      "image": "https://source.unsplash.com/featured/?html,code",
+      "content": "This is a detailed article about Best Practices for HTML5. Learn how to master html in modern front-end development."
+    },
+    {
+      "id": 4,
+      "title": "Creating Accessible HTML Structures",
+      "author": "Devika Nair",
+      "category": "HTML",
+      "date": "2025-02-24",
+      "image": "https://source.unsplash.com/featured/?html,code",
+      "content": "This is a detailed article about Creating Accessible HTML Structures. Learn how to master html in modern front-end development."
+    },
+    {
+      "id": 5,
+      "title": "HTML Forms: Tips and Tricks",
+      "author": "Samantha Jay",
+      "category": "HTML",
+      "date": "2025-03-28",
+      "image": "https://source.unsplash.com/featured/?html,code",
+      "content": "This is a detailed article about HTML Forms: Tips and Tricks. Learn how to master html in modern front-end development."
+    },
+    {
+      "id": 6,
+      "title": "What\u2019s New in HTML5",
+      "author": "Chris Evans",
+      "category": "HTML",
+      "date": "2025-06-11",
+      "image": "https://source.unsplash.com/featured/?html,code",
+      "content": "This is a detailed article about What\u2019s New in HTML5. Learn how to master html in modern front-end development."
+    },
+    {
+      "id": 7,
+      "title": "Common HTML Mistakes to Avoid",
+      "author": "Samantha Jay",
+      "category": "HTML",
+      "date": "2025-04-20",
+      "image": "https://source.unsplash.com/featured/?html,code",
+      "content": "This is a detailed article about Common HTML Mistakes to Avoid. Learn how to master html in modern front-end development."
+    },
+    {
+      "id": 8,
+      "title": "How to Structure a Perfect HTML Page",
+      "author": "Leo Tan",
+      "category": "HTML",
+      "date": "2025-01-25",
+      "image": "https://source.unsplash.com/featured/?html,code",
+      "content": "This is a detailed article about How to Structure a Perfect HTML Page. Learn how to master html in modern front-end development."
+    },
+    {
+      "id": 9,
+      "title": "Mastering Flexbox for Responsive Design",
+      "author": "Chris Evans",
+      "category": "CSS",
+      "date": "2025-03-16",
+      "image": "https://source.unsplash.com/featured/?css,design",
+      "content": "This is a detailed article about Mastering Flexbox for Responsive Design. Learn how to master css in modern front-end development."
+    },
+    {
+      "id": 10,
+      "title": "CSS Grid Layouts: A Beginner's Guide",
+      "author": "Alex Morgan",
+      "category": "CSS",
+      "date": "2025-04-27",
+      "image": "https://source.unsplash.com/featured/?css,design",
+      "content": "This is a detailed article about CSS Grid Layouts: A Beginner's Guide. Learn how to master css in modern front-end development."
+    },
+    {
+      "id": 11,
+      "title": "Styling with Tailwind CSS",
+      "author": "Chris Evans",
+      "category": "CSS",
+      "date": "2025-05-31",
+      "image": "https://source.unsplash.com/featured/?css,design",
+      "content": "This is a detailed article about Styling with Tailwind CSS. Learn how to master css in modern front-end development."
+    },
+    {
+      "id": 12,
+      "title": "CSS Variables and How to Use Them",
+      "author": "Dana Wu",
+      "category": "CSS",
+      "date": "2025-03-26",
+      "image": "https://source.unsplash.com/featured/?css,design",
+      "content": "This is a detailed article about CSS Variables and How to Use Them. Learn how to master css in modern front-end development."
+    },
+    {
+      "id": 13,
+      "title": "Building Dark Mode with CSS",
+      "author": "Rina K",
+      "category": "CSS",
+      "date": "2025-05-20",
+      "image": "https://source.unsplash.com/featured/?css,design",
+      "content": "This is a detailed article about Building Dark Mode with CSS. Learn how to master css in modern front-end development."
+    },
+    {
+      "id": 14,
+      "title": "Responsive Design Techniques",
+      "author": "Devika Nair",
+      "category": "CSS",
+      "date": "2025-01-09",
+      "image": "https://source.unsplash.com/featured/?css,design",
+      "content": "This is a detailed article about Responsive Design Techniques. Learn how to master css in modern front-end development."
+    },
+    {
+      "id": 15,
+      "title": "Centering in CSS: A Complete Guide",
+      "author": "Chris Evans",
+      "category": "CSS",
+      "date": "2025-05-10",
+      "image": "https://source.unsplash.com/featured/?css,design",
+      "content": "This is a detailed article about Centering in CSS: A Complete Guide. Learn how to master css in modern front-end development."
+    },
+    {
+      "id": 16,
+      "title": "Best Practices for CSS Architecture",
+      "author": "Dana Wu",
+      "category": "CSS",
+      "date": "2025-06-10",
+      "image": "https://source.unsplash.com/featured/?css,design",
+      "content": "This is a detailed article about Best Practices for CSS Architecture. Learn how to master css in modern front-end development."
+    },
+    {
+      "id": 17,
+      "title": "JavaScript ES6 Features You Should Know",
+      "author": "Rina K",
+      "category": "JavaScript",
+      "date": "2025-03-17",
+      "image": "https://source.unsplash.com/featured/?javascript,code",
+      "content": "This is a detailed article about JavaScript ES6 Features You Should Know. Learn how to master javascript in modern front-end development."
+    },
+    {
+      "id": 18,
+      "title": "The Event Loop Explained",
+      "author": "Alex Morgan",
+      "category": "JavaScript",
+      "date": "2025-06-27",
+      "image": "https://source.unsplash.com/featured/?javascript,code",
+      "content": "This is a detailed article about The Event Loop Explained. Learn how to master javascript in modern front-end development."
+    },
+    {
+      "id": 19,
+      "title": "Understanding Closures in JS",
+      "author": "Dana Wu",
+      "category": "JavaScript",
+      "date": "2025-01-21",
+      "image": "https://source.unsplash.com/featured/?javascript,code",
+      "content": "This is a detailed article about Understanding Closures in JS. Learn how to master javascript in modern front-end development."
+    },
+    {
+      "id": 20,
+      "title": "10 Array Methods Every Developer Should Know",
+      "author": "Rina K",
+      "category": "JavaScript",
+      "date": "2025-05-06",
+      "image": "https://source.unsplash.com/featured/?javascript,code",
+      "content": "This is a detailed article about 10 Array Methods Every Developer Should Know. Learn how to master javascript in modern front-end development."
+    },
+    {
+      "id": 21,
+      "title": "Writing Cleaner JavaScript Code",
+      "author": "Chris Evans",
+      "category": "JavaScript",
+      "date": "2025-04-06",
+      "image": "https://source.unsplash.com/featured/?javascript,code",
+      "content": "This is a detailed article about Writing Cleaner JavaScript Code. Learn how to master javascript in modern front-end development."
+    },
+    {
+      "id": 22,
+      "title": "Debounce vs Throttle in JavaScript",
+      "author": "Dana Wu",
+      "category": "JavaScript",
+      "date": "2025-04-24",
+      "image": "https://source.unsplash.com/featured/?javascript,code",
+      "content": "This is a detailed article about Debounce vs Throttle in JavaScript. Learn how to master javascript in modern front-end development."
+    },
+    {
+      "id": 23,
+      "title": "JavaScript Best Practices in 2025",
+      "author": "Samantha Jay",
+      "category": "JavaScript",
+      "date": "2025-04-25",
+      "image": "https://source.unsplash.com/featured/?javascript,code",
+      "content": "This is a detailed article about JavaScript Best Practices in 2025. Learn how to master javascript in modern front-end development."
+    },
+    {
+      "id": 24,
+      "title": "Exploring JavaScript Design Patterns",
+      "author": "Devika Nair",
+      "category": "JavaScript",
+      "date": "2025-04-09",
+      "image": "https://source.unsplash.com/featured/?javascript,code",
+      "content": "This is a detailed article about Exploring JavaScript Design Patterns. Learn how to master javascript in modern front-end development."
+    },
+    {
+      "id": 25,
+      "title": "Understanding React Hooks",
+      "author": "Dana Wu",
+      "category": "React",
+      "date": "2025-04-10",
+      "image": "https://source.unsplash.com/featured/?react,developer",
+      "content": "This is a detailed article about Understanding React Hooks. Learn how to master react in modern front-end development."
+    },
+    {
+      "id": 26,
+      "title": "Building a Todo App in React",
+      "author": "Alex Morgan",
+      "category": "React",
+      "date": "2025-05-25",
+      "image": "https://source.unsplash.com/featured/?react,developer",
+      "content": "This is a detailed article about Building a Todo App in React. Learn how to master react in modern front-end development."
+    },
+    {
+      "id": 27,
+      "title": "React State Management Simplified",
+      "author": "Chris Evans",
+      "category": "React",
+      "date": "2025-01-10",
+      "image": "https://source.unsplash.com/featured/?react,developer",
+      "content": "This is a detailed article about React State Management Simplified. Learn how to master react in modern front-end development."
+    },
+    {
+      "id": 28,
+      "title": "React Router v6: What\u2019s New?",
+      "author": "Alex Morgan",
+      "category": "React",
+      "date": "2025-03-06",
+      "image": "https://source.unsplash.com/featured/?react,developer",
+      "content": "This is a detailed article about React Router v6: What\u2019s New?. Learn how to master react in modern front-end development."
+    },
+    {
+      "id": 29,
+      "title": "Component Composition in React",
+      "author": "Micheal Ong",
+      "category": "React",
+      "date": "2025-02-17",
+      "image": "https://source.unsplash.com/featured/?react,developer",
+      "content": "This is a detailed article about Component Composition in React. Learn how to master react in modern front-end development."
+    },
+    {
+      "id": 30,
+      "title": "React Performance Optimization Tips",
+      "author": "Rina K",
+      "category": "React",
+      "date": "2025-03-24",
+      "image": "https://source.unsplash.com/featured/?react,developer",
+      "content": "This is a detailed article about React Performance Optimization Tips. Learn how to master react in modern front-end development."
+    },
+    {
+      "id": 31,
+      "title": "Handling Forms in React the Right Way",
+      "author": "Rina K",
+      "category": "React",
+      "date": "2025-01-06",
+      "image": "https://source.unsplash.com/featured/?react,developer",
+      "content": "This is a detailed article about Handling Forms in React the Right Way. Learn how to master react in modern front-end development."
+    },
+    {
+      "id": 32,
+      "title": "Common React Anti-patterns",
+      "author": "Samantha Jay",
+      "category": "React",
+      "date": "2025-02-12",
+      "image": "https://source.unsplash.com/featured/?react,developer",
+      "content": "This is a detailed article about Common React Anti-patterns. Learn how to master react in modern front-end development."
+    },
+    {
+      "id": 33,
+      "title": "Redux for Beginners",
+      "author": "Alex Morgan",
+      "category": "Redux",
+      "date": "2025-01-18",
+      "image": "https://source.unsplash.com/featured/?redux,frontend",
+      "content": "This is a detailed article about Redux for Beginners. Learn how to master redux in modern front-end development."
+    },
+    {
+      "id": 34,
+      "title": "Redux Toolkit Crash Course",
+      "author": "Devika Nair",
+      "category": "Redux",
+      "date": "2025-05-23",
+      "image": "https://source.unsplash.com/featured/?redux,frontend",
+      "content": "This is a detailed article about Redux Toolkit Crash Course. Learn how to master redux in modern front-end development."
+    },
+    {
+      "id": 35,
+      "title": "State Management with Redux vs Context API",
+      "author": "Dana Wu",
+      "category": "Redux",
+      "date": "2025-01-28",
+      "image": "https://source.unsplash.com/featured/?redux,frontend",
+      "content": "This is a detailed article about State Management with Redux vs Context API. Learn how to master redux in modern front-end development."
+    },
+    {
+      "id": 36,
+      "title": "Connecting React with Redux",
+      "author": "Chris Evans",
+      "category": "Redux",
+      "date": "2025-05-08",
+      "image": "https://source.unsplash.com/featured/?redux,frontend",
+      "content": "This is a detailed article about Connecting React with Redux. Learn how to master redux in modern front-end development."
+    },
+    {
+      "id": 37,
+      "title": "Async Actions with Redux Thunk",
+      "author": "Micheal Ong",
+      "category": "Redux",
+      "date": "2025-04-01",
+      "image": "https://source.unsplash.com/featured/?redux,frontend",
+      "content": "This is a detailed article about Async Actions with Redux Thunk. Learn how to master redux in modern front-end development."
+    },
+    {
+      "id": 38,
+      "title": "Best Practices for Redux Architecture",
+      "author": "Dana Wu",
+      "category": "Redux",
+      "date": "2025-03-20",
+      "image": "https://source.unsplash.com/featured/?redux,frontend",
+      "content": "This is a detailed article about Best Practices for Redux Architecture. Learn how to master redux in modern front-end development."
+    },
+    {
+      "id": 39,
+      "title": "Debugging Redux with DevTools",
+      "author": "Micheal Ong",
+      "category": "Redux",
+      "date": "2025-02-17",
+      "image": "https://source.unsplash.com/featured/?redux,frontend",
+      "content": "This is a detailed article about Debugging Redux with DevTools. Learn how to master redux in modern front-end development."
+    },
+    {
+      "id": 40,
+      "title": "Using Redux Persist to Save State",
+      "author": "Devika Nair",
+      "category": "Redux",
+      "date": "2025-03-20",
+      "image": "https://source.unsplash.com/featured/?redux,frontend",
+      "content": "This is a detailed article about Using Redux Persist to Save State. Learn how to master redux in modern front-end development."
+    },
+    {
+      "id": 41,
+      "title": "Understanding Modern JavaScript Techniques",
+      "category": "HTML",
+      "author": "Brian Lee",
+      "date": "2024-11-24",
+      "content": "This article covers advanced front-end development concepts and provides practical implementation guidance.",
+      "image": "https://source.unsplash.com/featured/?html,coding"
+    },
+    {
+      "id": 42,
+      "title": "Understanding Advanced HTML Techniques",
+      "category": "Redux",
+      "author": "Alice Tan",
+      "date": "2024-05-23",
+      "content": "This article covers advanced front-end development concepts and provides practical implementation guidance.",
+      "image": "https://source.unsplash.com/featured/?redux,coding"
+    },
+    {
+      "id": 43,
+      "title": "Understanding Advanced JavaScript Techniques",
+      "category": "React",
+      "author": "Jason Ng",
+      "date": "2024-07-15",
+      "content": "This article covers advanced front-end development concepts and provides practical implementation guidance.",
+      "image": "https://source.unsplash.com/featured/?redux,coding"
+    },
+    {
+      "id": 44,
+      "title": "Understanding Modern JavaScript Techniques",
+      "category": "JavaScript",
+      "author": "Evelyn Lim",
+      "date": "2024-10-30",
+      "content": "This article covers advanced front-end development concepts and provides practical implementation guidance.",
+      "image": "https://source.unsplash.com/featured/?css,coding"
+    },
+    {
+      "id": 45,
+      "title": "Understanding Practical HTML Techniques",
+      "category": "Redux",
+      "author": "Alice Tan",
+      "date": "2024-11-28",
+      "content": "This article covers advanced front-end development concepts and provides practical implementation guidance.",
+      "image": "https://source.unsplash.com/featured/?javascript,coding"
+    },
+    {
+      "id": 46,
+      "title": "Understanding Advanced React Techniques",
+      "category": "React",
+      "author": "Alice Tan",
+      "date": "2024-07-27",
+      "content": "This article covers advanced front-end development concepts and provides practical implementation guidance.",
+      "image": "https://source.unsplash.com/featured/?html,coding"
+    },
+    {
+      "id": 47,
+      "title": "Understanding Advanced HTML Techniques",
+      "category": "JavaScript",
+      "author": "Cheryl Goh",
+      "date": "2024-04-25",
+      "content": "This article covers advanced front-end development concepts and provides practical implementation guidance.",
+      "image": "https://source.unsplash.com/featured/?javascript,coding"
+    },
+    {
+      "id": 48,
+      "title": "Understanding Practical JavaScript Techniques",
+      "category": "CSS",
+      "author": "Harith Iskandar",
+      "date": "2024-07-19",
+      "content": "This article covers advanced front-end development concepts and provides practical implementation guidance.",
+      "image": "https://source.unsplash.com/featured/?react,coding"
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "title": "HTML"
+    },
+    {
+      "id": 2,
+      "title": "CSS"
+    },
+    {
+      "id": 3,
+      "title": "JavaScript"
+    },
+    {
+      "id": 4,
+      "title": "React"
+    },
+    {
+      "id": 5,
+      "title": "Web Performance"
+    },
+    {
+      "id": 6,
+      "title": "Responsive Design"
+    },
+    {
+      "id": 7,
+      "title": "UI/UX"
+    }
+  ]
+}
