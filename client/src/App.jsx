@@ -1,10 +1,15 @@
+import { Outlet } from "react-router-dom";
 import "./App.css";
+import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <>
-      <h1 className="text-8xl text-blue-800">Hello World!</h1>
-    </>
+    <div className="max-w-screen-xl mx-auto px-2">
+      <Navbar />
+      <main className="mt-8 min-h-screen">
+        <Outlet />
+      </main>
+    </div>
   );
 }
 
